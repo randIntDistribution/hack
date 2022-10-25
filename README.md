@@ -1,3 +1,2 @@
 # hack
-
-hack is hack
+bye
